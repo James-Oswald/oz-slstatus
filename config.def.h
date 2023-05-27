@@ -70,5 +70,5 @@ static const struct arg args[] = {
 	{ battery_state, 	"\uf1e6 %s ",			"BAT0"},
 	{ ram_free,			"\uf2db %s ",			NULL},
 	{ swap_total,		" %s ",					NULL},
-	{ wifi_essid,		"\uf1eb %s ",			"wlp2s0"}
+	{ wifi_essid,		"\uf1eb %s ",			"wlan0"}
 };
